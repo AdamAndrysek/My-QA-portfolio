@@ -3,7 +3,6 @@
 ## About me
 
 My name is Adam Andrysek. I am a strange combination of a manual software tester with aspirations for automation, doctor of humanities and a musician. After eight years of working as an academic lecturer (Cultural studies), I decided to start my QA path. I develop skills in the field of manual testing and basics of automated testing. I am currently taking part in the 3-month Intive Patronage 2021 program and testing applications on the uTest, TestIO and TestBirds platforms, where I gain practical skills. In March 2021 I graduated manual software tester course at the Software Development Academy. I love new challenges and also I have a keen eye for details and finding bugs so that is why I think the QA career is perfect for my character and abilities. I love cinema and movies, especially the american mainstream cinematography.
-I will update my portfolio every week.
 
 ## My tech skills
 * ISTQB knowledge
